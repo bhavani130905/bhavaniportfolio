@@ -1,0 +1,20 @@
+{
+  "name": "bhavaniportfolio",
+  "version": "1.0.0",
+  "description": "Bhavani Prabu - Professional UI/UX & Engineering Portfolio",
+  "main": "index.html",
+  "homepage": "https://bhavani130905.github.io/bhavaniportfolio",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavani130905/bhavaniportfolio.git"
+  },
+  "keywords": [],
+  "author": "Bhavani Prabu",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
